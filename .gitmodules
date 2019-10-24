@@ -1,0 +1,3 @@
+[submodule "sandbox/lib/Detours"]
+	path = sandbox/lib/Detours
+	url = https://github.com/microsoft/Detours.git
